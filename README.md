@@ -1,1 +1,0 @@
-# LendingCrowd-case-study
